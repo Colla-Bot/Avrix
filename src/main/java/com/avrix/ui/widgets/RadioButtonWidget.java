@@ -17,7 +17,7 @@ public class RadioButtonWidget extends Widget {
     /**
      * The font name used to render the text in the radio buttons.
      */
-    protected String fontName = "Montserrat-Regular";
+    protected String fontName = "Pretendard-Regular";
 
     /**
      * The font size used to render the text in the radio buttons.

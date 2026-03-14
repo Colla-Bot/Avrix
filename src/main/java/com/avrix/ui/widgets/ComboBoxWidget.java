@@ -20,7 +20,7 @@ public class ComboBoxWidget extends PanelWidget {
     /**
      * The name of the font used for the text in the dropdown list.
      */
-    protected String fontName = "Montserrat-Regular";
+    protected String fontName = "Pretendard-Regular";
 
     /**
      * The Unicode character for the drop icon.

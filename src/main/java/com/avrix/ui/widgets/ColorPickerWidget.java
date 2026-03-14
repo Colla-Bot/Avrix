@@ -24,7 +24,7 @@ public class ColorPickerWidget extends Widget {
     /**
      * The name of the font used for displaying text.
      */
-    protected String fontName = "Montserrat-Regular";
+    protected String fontName = "Pretendard-Regular";
 
     /**
      * Action when color changes

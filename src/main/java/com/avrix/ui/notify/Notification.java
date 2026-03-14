@@ -16,7 +16,7 @@ public class Notification {
     /**
      * The font name used to display the text.
      */
-    protected String fontName = "Montserrat-Regular";
+    protected String fontName = "Pretendard-Regular";
 
     /**
      * The font name used to display the icon.

@@ -13,7 +13,7 @@ public class WindowWidget extends ScrollPanelWidget {
     /**
      * The name of the font used for rendering text within the {@link Widget}.
      */
-    protected String fontName = "Montserrat-Regular";
+    protected String fontName = "Pretendard-Regular";
 
     /**
      * The name of the font used for rendering icon within the {@link Widget}.

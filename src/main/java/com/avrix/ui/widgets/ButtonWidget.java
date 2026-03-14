@@ -12,7 +12,7 @@ public class ButtonWidget extends PanelWidget {
     /**
      * The font name used for the button text.
      */
-    protected String fontName = "Montserrat-Regular";
+    protected String fontName = "Pretendard-Regular";
 
     /**
      * Names of in-game click sounds

@@ -29,7 +29,7 @@ public class InputTextWidget extends PanelWidget {
     /**
      * The font used for displaying text.
      */
-    protected String textFont = "Montserrat-Regular";
+    protected String textFont = "Pretendard-Regular";
 
     /**
      * The color of the text.

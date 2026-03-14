@@ -19,7 +19,7 @@ public class CheckboxWidget extends Widget {
     /**
      * The name of the font used for the title text.
      */
-    protected String fontName = "Montserrat-Regular";
+    protected String fontName = "Pretendard-Regular";
 
     /**
      * The name of the font used for the checkbox icon.

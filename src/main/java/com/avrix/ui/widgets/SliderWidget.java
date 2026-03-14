@@ -15,7 +15,7 @@ public class SliderWidget extends Widget {
     /**
      * The font used for text rendering.
      */
-    protected String fontName = "Montserrat-Regular";
+    protected String fontName = "Pretendard-Regular";
 
     /**
      * The maximum value of the slider.

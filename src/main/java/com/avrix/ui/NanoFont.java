@@ -22,7 +22,7 @@ public class NanoFont {
     public static void loadDefaultFonts() {
         try {
             File coreJarFile = new File(Launcher.class.getProtectionDomain().getCodeSource().getLocation().toURI());
-            createFont("Montserrat-Regular", coreJarFile.getPath(), "media/fonts/Montserrat-Regular.ttf");
+            createFont("Pretendard-Regular", coreJarFile.getPath(), "media/fonts/Pretendard-Regular.ttf");
             createFont("Arial-Regular", coreJarFile.getPath(), "media/fonts/Arial-Regular.ttf");
             createFont("Roboto-Regular", coreJarFile.getPath(), "media/fonts/Roboto-Regular.ttf");
             createFont("FontAwesome", coreJarFile.getPath(), "media/fonts/FontAwesome.ttf");

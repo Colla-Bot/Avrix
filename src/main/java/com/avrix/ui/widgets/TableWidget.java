@@ -21,7 +21,7 @@ public class TableWidget extends ScrollPanelWidget {
     /**
      * The font name used for the table's text.
      */
-    protected String fontName = "Montserrat-Regular";
+    protected String fontName = "Pretendard-Regular";
 
     /**
      * The font name used for icons in the table.
