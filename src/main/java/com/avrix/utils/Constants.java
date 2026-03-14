@@ -11,7 +11,7 @@ public class Constants {
     /**
      * Name of the file cache directory
      */
-    public static final String CACHE_DIR_NAME = "avrix/cache";
+    public static final String CACHE_DIR_NAME = "collabot/cache";
 
     /**
      * Folder name for plugins
@@ -31,12 +31,12 @@ public class Constants {
     /**
      * Avrix repository owner
      */
-    public static final String REPO_OWNER = "Brov3r";
+    public static final String REPO_OWNER = "jebibot";
 
     /**
      * Avrix repository name
      */
-    public static final String REPO_NAME = "Avrix";
+    public static final String REPO_NAME = "CollaBotLoader";
 
     /**
      * Project version

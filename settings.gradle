@@ -1,4 +1,4 @@
-rootProject.name = 'Avrix'
+rootProject.name = 'CollaBot'
 include 'examples:server-plugin'
 findProject(':examples:server-plugin')?.name = 'server-plugin'
 include 'examples:client-plugin'
